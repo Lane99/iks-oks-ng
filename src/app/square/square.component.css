@@ -1,0 +1,11 @@
+:host {
+  display: block;
+  width: 32%;
+  height: 32%;
+  background-color: black;
+}
+
+:host:hover {
+  cursor: pointer;
+  background-color: cyan;
+}
