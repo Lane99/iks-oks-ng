@@ -1,7 +1,7 @@
 :host {
   display: flex;
   flex-wrap: wrap;
-  background-color: white;
+  background-color: greenyellow;
   width: 400px;
   height: 400px;
   align-items: space-between;
